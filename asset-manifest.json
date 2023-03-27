@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextUtils.git/static/css/main.bebe0384.css",
+    "main.js": "/TextUtils.git/static/js/main.9c4de79f.js",
+    "static/js/787.46b15357.chunk.js": "/TextUtils.git/static/js/787.46b15357.chunk.js",
+    "index.html": "/TextUtils.git/index.html",
+    "main.bebe0384.css.map": "/TextUtils.git/static/css/main.bebe0384.css.map",
+    "main.9c4de79f.js.map": "/TextUtils.git/static/js/main.9c4de79f.js.map",
+    "787.46b15357.chunk.js.map": "/TextUtils.git/static/js/787.46b15357.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bebe0384.css",
+    "static/js/main.9c4de79f.js"
+  ]
+}
